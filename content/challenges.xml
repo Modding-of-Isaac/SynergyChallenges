@@ -1,0 +1,29 @@
+<challenges version="1">
+    <challenge
+		name="Orbital Knife"
+		startingitems="114,233"
+		playertype="0"
+		canshoot="True"
+		endstage="12"
+		megasatan="true"
+		roomfilter="4,21"
+		difficulty="0"/>
+	<challenge
+		name="Controlled Disaster"
+		startingitems="52,273,329,330"
+		playertype="0"
+		canshoot="True"
+		endstage="12"
+		megasatan="true"
+		roomfilter="4,21"
+		difficulty="1"/>
+	<challenge
+		name="Lost In The Blast"
+		startingitems="52,313,330,531,532"
+		playertype="0"
+		canshoot="True"
+		endstage="12"
+		megasatan="true"
+		roomfilter="4,21"
+		difficulty="1"/>
+</challenges>
