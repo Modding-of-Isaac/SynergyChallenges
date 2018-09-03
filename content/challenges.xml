@@ -20,7 +20,7 @@
 	<challenge
 		name="Lost In The Blast"
 		startingitems="52,313,330,531,532"
-		playertype="0"
+		playertype="10"
 		canshoot="True"
 		endstage="12"
 		megasatan="true"
